@@ -14,9 +14,9 @@ Requirements;
 
 5. Total_Revenue ?
 
-7. Do we have any Seasonality Sales of the Year?
+6. Do we have any Seasonality Sales of the Year?
 
-8. Are there any pizzas we should take off the Menu?
+7. Are there any pizzas we should take off the Menu?
 
-9. Based on the Sales of the Pizzas do we need to do any Promotions?
+8. Based on the Sales of the Pizzas do we need to do any Promotions?
 
